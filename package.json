@@ -1,0 +1,29 @@
+{
+  "name": "reversi",
+  "version": "1.0.0",
+  "description": "Reversi Game on Web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christinal59/reversi.git"
+  },
+  "keywords": [
+    "reversi",
+    "christina",
+    "hci",
+    "285"
+  ],
+  "author": "christina li",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/christinal59/reversi/issues"
+  },
+  "homepage": "https://github.com/christinal59/reversi#readme",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.6.1"
+  }
+}
